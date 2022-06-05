@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Newson's github stats](https://github-readme-stats.vercel.app/api?username=newsonthokchom)
+![Newson's github stats](https://github-readme-stats.vercel.app/api?username=newsonthokchom&theme=gotham&show_icons=true)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newsonthokchom)](https://github.com/newsonthokchom/github-readme-stats) -->
 
