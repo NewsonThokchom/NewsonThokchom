@@ -68,7 +68,9 @@ Here are some ideas to get you started:
 
 
 ### My Latest Youtube Videos:
-[![Everything Is AWESOME](https://i.ytimg.com/an_webp/u5t982nLjiw/mqdefault_6s.webp?du=3000&sqp=CJzS85QG&rs=AOn4CLCo7dy5yFj-GTA9LXUsu-7qW4LF9Q)](https://youtu.be/u5t982nLjiw "Fitness Landing Page UI Design | Web UI Design | Figma Speed Art")
+[![Fitness Landing Page UI Design](https://i.ytimg.com/an_webp/u5t982nLjiw/mqdefault_6s.webp?du=3000&sqp=CJzS85QG&rs=AOn4CLCo7dy5yFj-GTA9LXUsu-7qW4LF9Q)](https://youtu.be/u5t982nLjiw "Fitness Landing Page UI Design | Web UI Design | Figma Speed Art")
+
+[![Fitness Landing Page UI Design](https://i.ytimg.com/an_webp/u5t982nLjiw/mqdefault_6s.webp?du=3000&sqp=CJzS85QG&rs=AOn4CLCo7dy5yFj-GTA9LXUsu-7qW4LF9Q)](https://youtu.be/u5t982nLjiw "Fitness Landing Page UI Design | Web UI Design | Figma Speed Art")
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newsonthokchom)](https://github.com/newsonthokchom/github-readme-stats) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=newsonthokchom&theme=nord&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) -->
