@@ -1,6 +1,6 @@
 ### Hi there 👋
 Glad to see you here! 🤩
-![Newson's GitHub stats](https://github-readme-stats.vercel.app/api?username=newsonthokchom&theme=gotham&show_icons=true)
+
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150"/>
 <!--    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
@@ -17,6 +17,8 @@ Glad to see you here! 🤩
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+![Newson's GitHub stats](https://github-readme-stats.vercel.app/api?username=newsonthokchom&theme=gotham&show_icons=true)
 
 
 ### :hammer_and_wrench: Languages and Tools :
