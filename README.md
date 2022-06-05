@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 
 ### My Latest Youtube Videos:
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/u5t982nLjiw "Fitness Landing Page UI Design | Web UI Design | Figma Speed Art")
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newsonthokchom)](https://github.com/newsonthokchom/github-readme-stats) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=newsonthokchom&theme=nord&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) -->
