@@ -18,8 +18,6 @@ Glad to see you here! 🤩
   </a>
 </div>
 
-![Newson's GitHub stats](https://github-readme-stats.vercel.app/api?username=newsonthokchom&theme=gotham&show_icons=true)
-
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
@@ -46,6 +44,8 @@ Glad to see you here! 🤩
 </div>
 
 <hr>
+
+![Newson's GitHub stats](https://github-readme-stats.vercel.app/api?username=newsonthokchom&theme=gotham&show_icons=true)
 <!-- **NewsonThokchom/NewsonThokchom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
