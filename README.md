@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ![Newson's github stats](https://github-readme-stats.vercel.app/api?username=newsonthokchom)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newsonthokchom)](https://github.com/newsonthokchom/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
