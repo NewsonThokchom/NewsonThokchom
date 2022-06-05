@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=newsonthokchom&theme=nord&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!-- **NewsonThokchom/NewsonThokchom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newsonthokchom)](https://github.com/newsonthokchom/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newsonthokchom&layout=compact&theme=dark&show_icons=true)](https://github.com/newsonthokchom/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=newsonthokchom&theme=nord&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
