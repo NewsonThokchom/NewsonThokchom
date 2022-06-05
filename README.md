@@ -67,6 +67,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=newsonthokchom&theme=dark)](https://git.io/streak-stats)
 
 
+### My Latest Youtube Videos:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u5t982nLjiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newsonthokchom)](https://github.com/newsonthokchom/github-readme-stats) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=newsonthokchom&theme=nord&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) -->
