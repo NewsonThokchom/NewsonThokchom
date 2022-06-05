@@ -45,7 +45,7 @@ Glad to see you here! 🤩
 
 <hr>
 
-![Newson's GitHub stats](https://github-readme-stats.vercel.app/api?username=newsonthokchom&theme=gotham&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newsonthokchom&layout=compact&theme=dark&show_icons=true)
+![Newson's GitHub stats](https://github-readme-stats.vercel.app/api?username=newsonthokchom&theme=gotham&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newsonthokchom&layout=compact&theme=dark&show_icons=true)
 <!-- **NewsonThokchom/NewsonThokchom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
