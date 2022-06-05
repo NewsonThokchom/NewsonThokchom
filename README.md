@@ -24,5 +24,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=newsonthokchom&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/newsonthokchom/MernEcommerce">
-  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newsonthokchom&layout=compact)](https://github.com/newsonthokchom/github-readme-stats)" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newsonthokchom&layout=compact)](https://github.com/newsonthokchom/github-readme-stats)
 </a>
