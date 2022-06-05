@@ -16,7 +16,7 @@ Glad to see you here! 🤩
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+![Newson's GitHub stats](https://github-readme-stats.vercel.app/api?username=newsonthokchom&theme=gotham&show_icons=true)
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![Newson's GitHub stats](https://github-readme-stats.vercel.app/api?username=newsonthokchom&theme=gotham&show_icons=true)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=newsonthokchom&theme=dark)](https://git.io/streak-stats)
 
